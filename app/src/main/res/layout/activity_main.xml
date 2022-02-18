@@ -19,5 +19,14 @@
         android:backgroundTint="@color/red"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
+    <CheckBox
+        android:text="연승용"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:hint="아무 문장이나 입력"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 
 </LinearLayout>
